@@ -1,2 +1,2 @@
 # ML-basics
-Linear regression with gradient descent algo
+Linear regression with gradient descent algorithm
